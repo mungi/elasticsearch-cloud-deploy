@@ -1,19 +1,19 @@
 {
   "elasticsearch_version": "",
 
-  "aws_region": "us-east-1",
-  "aws_az": "us-east-1d",
+  "aws_region": "ap-northeast-2",
+  "aws_az": "ap-northeast-2a",
 
   "azure_client_id": "",
   "azure_client_secret": "",
   "azure_subscription_id": "",
   "azure_tenant_id": "",
 
-  "gcp_zone": "us-central1-a",
-  "gcp_project_id": "elasticsearch",
-  "gcp_account_file": ".gcp_account.json",
+  "gcp_zone": "",
+  "gcp_project_id": "",
+  "gcp_account_file": "",
 
-  "azure_location": "East US",
-  "azure_resource_group_name": "packer-elasticsearch-images",
+  "azure_location": "",
+  "azure_resource_group_name": "",
   "azure_elasticsearch_image_name": ""
 }

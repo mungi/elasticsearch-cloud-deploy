@@ -25,8 +25,9 @@
       },
       "spot_price_auto_product": "Linux/UNIX (Amazon VPC)",
       "spot_price": "auto",
-      "ssh_timeout": "10m",
+      "ssh_timeout": "3m",
       "ssh_username": "ubuntu",
+      "ssh_interface": "public_ip",
       "tags": {
         "ImageType": "kibana7-packer-image"
       }
